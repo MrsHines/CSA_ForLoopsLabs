@@ -4,10 +4,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-public class TestPrime
+public class TestisPrime
 {
   public static void main(String args[]) {
-    TestPrime test = new TestPrime();
+    TestisPrime test = new TestisPrime();
     test.test24();
     test.test100();
     test.test7919();
