@@ -1,4 +1,4 @@
-#For Loop Labs
+# For Loop Labs
 
 ## Program #1: 
 - Complete the method loopSum(start, stop).  
@@ -27,3 +27,5 @@
 - Complete the gcd(num1, num2) method.
 - gcd(num1, num2) will take two integers as parameters and return an integer that is the greatest common divisor of the two numbers (the largest number that will evenly divide into both numbers)
 - HINT: Math.min(a,b) will return the smallest value of a and b
+
+## Add comments throughout your code to describe each method you write and how the for loop helps you solve the problem.
