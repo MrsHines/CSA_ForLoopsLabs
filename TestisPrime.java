@@ -17,7 +17,7 @@ public class TestisPrime
     /**
      * Default constructor for test class TestMain
      */
-    public TestPrime()
+    public TestisPrime()
     {
     }
 
